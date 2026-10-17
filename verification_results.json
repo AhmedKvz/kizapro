@@ -1,0 +1,245 @@
+{
+  "html_structure": {
+    "has_doctype": true,
+    "has_html_lang": true,
+    "headings_hierarchy": [
+      "h1",
+      "h2",
+      "h2",
+      "h3",
+      "h2",
+      "h2",
+      "h2",
+      "h3",
+      "h3",
+      "h2",
+      "h3",
+      "h3",
+      "h4",
+      "h2",
+      "h2",
+      "h3",
+      "h3",
+      "h3",
+      "h3",
+      "h2",
+      "h2"
+    ]
+  },
+  "seo_metadata": {
+    "title": "afterBefore — Noć postaje tvoja.",
+    "description": "afterBefore je operativni sistem noćnog života. Otkrij grad, potvrdi dolazak, poveži se kroz noć i gradi svoj Night Passport.",
+    "og:type": "website",
+    "og:url": "https://afterbefore.rs/sr",
+    "og:title": "afterBefore — Noć postaje tvoja.",
+    "og:description": "Vidi gde grad izlazi. Pokaži da si tu. Zadrži noć.",
+    "og:image": "https://afterbefore.rs/assets/film-poster.jpg",
+    "twitter:card": "summary_large_image",
+    "canonical": "https://afterbefore.rs/sr",
+    "hreflangs": [
+      [
+        "en",
+        "https://afterbefore.rs/"
+      ],
+      [
+        "sr",
+        "https://afterbefore.rs/sr"
+      ]
+    ],
+    "canonical_note": "Canonical URL je postavljen na zvanični domen: https://afterbefore.rs/sr (nije netlify poddomen, što je ispravno za produkciju)."
+  },
+  "anchor_links": {
+    "passed": [
+      "#journey",
+      "#top",
+      "#pilot",
+      "#journey",
+      "#economy",
+      "#vision",
+      "#magazine",
+      "#pilot",
+      "#journey",
+      "#journey",
+      "#top"
+    ],
+    "failed": []
+  },
+  "external_links": {
+    "passed": [
+      {
+        "url": "https://app.afterbefore.rs/#/auth",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://app.afterbefore.rs/#/auth",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://app.afterbefore.rs/#/auth",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/studiob1media/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/nixon.butik/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/telma.bar.restaurant/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/20_44.nightclub/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/acidform/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/p/DLAvpj1oHUQ/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/p/Dd3mdfxDmuK/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/p/DduYNCMjmzB/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/p/DdWOFbdiMVK/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://www.instagram.com/reel/DZ-Q0NboKsy/",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://app.afterbefore.rs/#/auth",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      },
+      {
+        "url": "https://app.afterbefore.rs/#/auth",
+        "text": "",
+        "status": 200,
+        "msg": "OK"
+      }
+    ],
+    "failed": []
+  },
+  "assets": {
+    "passed": [
+      {
+        "src": "assets/app/sr/map.webp",
+        "size_bytes": 23164,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/places.webp",
+        "size_bytes": 19770,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/venue.webp",
+        "size_bytes": 21058,
+        "local": true
+      },
+      {
+        "src": "assets/favicon.svg",
+        "size_bytes": 437,
+        "local": true
+      },
+      {
+        "src": "assets/afterbefore-demo-v2.mp4",
+        "size_bytes": 8310647,
+        "local": true
+      },
+      {
+        "src": "assets/apple-touch-icon.png",
+        "size_bytes": 3880,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/season.webp",
+        "size_bytes": 30292,
+        "local": true
+      },
+      {
+        "src": "assets/film-poster.jpg",
+        "size_bytes": 70281,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/quests.webp",
+        "size_bytes": 23880,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/me.webp",
+        "size_bytes": 35172,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/tusam.webp",
+        "size_bytes": 19314,
+        "local": true
+      },
+      {
+        "src": "assets/app/sr/discover.webp",
+        "size_bytes": 23928,
+        "local": true
+      }
+    ],
+    "failed": []
+  },
+  "responsive_viewport": {
+    "raw": "width=device-width,initial-scale=1",
+    "has_initial_scale": true,
+    "has_width_device": true,
+    "has_viewport_fit": false
+  },
+  "accessibility": {
+    "total_images": 8,
+    "images_without_alt": 0,
+    "has_skip_link": true
+  },
+  "issues_found": [
+    {
+      "severity": "MEDIUM",
+      "type": "RESPONSIVE",
+      "description": "Viewport meta tag ne sadrži \"viewport-fit=cover\", što može dovesti do belih margina na iPhone uređajima sa notch-om/Dynamic Island-om."
+    }
+  ]
+}
